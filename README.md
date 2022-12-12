@@ -66,8 +66,6 @@ This is a complte Yoga application Form with backend intigraded.
 
 
 
-![9](https://user-images.githubusercontent.com/66213227/207027373-8a57d72a-bacd-4236-ac45-a9900af172d8.png)
-
 
 
 
